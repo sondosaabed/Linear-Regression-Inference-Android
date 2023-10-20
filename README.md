@@ -9,7 +9,8 @@ https://github.com/sondosaabed/Introduction-to-Tensorflow-lite/blob/main/Intro%2
 
 <div align=center>
 
-  
+
 [untitled.webm](https://github.com/sondosaabed/Linear-Regression-Inference-Android/assets/65151701/3234fc86-315c-43af-8102-78a3220ce088)
+
 
 </div>
